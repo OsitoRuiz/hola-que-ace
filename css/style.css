@@ -1,0 +1,41 @@
+.container{
+	background-color: rgba(0,0,0,0,3);
+	margin-top: 10%;
+	width: 600px;
+	height: 300px;
+	color: white;
+}
+.input-filed{
+	margin-top: 5%;
+	margin-left: 2%
+	margin-right:2%;
+}
+.btn{
+	border-radius: 10px;
+	
+}
+form{
+	color: white;
+}
+
+h5{
+	color: #000000;
+	cursor: pointer;
+}
+input{
+      border-style: outset solid;
+      border-radius: 20px;
+      box-shadow: 0px 0px 3px 3px;
+      padding: 20px;
+      margin-top: 10px;
+      cursor: pointer;
+      font-style: oblique;
+    }
+ nav {
+ 	color: #ffff00;
+ 	font-style: italic;
+ }
+div div {
+  cursor: pointer;
+}
+
